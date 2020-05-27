@@ -14,15 +14,16 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 ## Code/Tech :computer:
 
 - [**VS Code**](https://code.visualstudio.com/)
+
 - [**Github**](https://github.com)
+
 - **[Gitlab](https://gitlab.com/)**
-- **[Cloudflare](https://gitlab.com/)**
-- [**Firebase**](https://firebase.com/)
+
 - **[Postman](https://www.postman.com/)**
+
 - **[Namecheap](https://www.namecheap.com/)**
-- [Render](https://render.com/)
-- [Heroku](https://www.heroku.com/)
-- [Digital Ocean](https://www.digitalocean.com/)
+
+- [repl.it](https://repl.it/)
 
   ### Coding Practice :desktop_computer:
 
@@ -38,6 +39,7 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 - [**Loom**](https://www.loom.com/)
 - [**Crisp**](https://crisp.chat/)
 - [Signal](https://signal.org/en/)
+- [Discord](http://discord.com/)
 
 ## Community :family:
 
@@ -52,10 +54,11 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 - [Medium](https://medium.com/)
 - [Lobsters](https://lobste.rs/)
 
-## design :paintbrush:
+## Design :paintbrush:
 
 - **[figma](https://www.figma.com/)**
 - **[sketch](https://www.sketch.com/)**
+- [xd](https://www.xd-design.com/us-us/home)
 
 ## Extensions :electric_plug:
 
@@ -63,6 +66,16 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 - **[Lastpass](http://lastpass.com/)**
 - **[Clip Board History](https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk?hl=en)**
 - **[Pocket](https://getpocket.com/chrome/)**
+
+## Hosting :spider_web:
+
+- [**Firebase**](https://firebase.com/)
+- **[Cloudflare](https://gitlab.com/)**
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [Render](https://render.com/)
+- [Heroku](https://www.heroku.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
 
 ## Job Boards :man_factory_worker:
 
@@ -79,4 +92,4 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 ## Project/Product management :office:
 
 - **[Trello](http://trello.com/)**
-- [Miro](https://miro.com/)
+- [Miro](http://miro.com)

@@ -25,6 +25,8 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 
 - [repl.it](https://repl.it/)
 
+- [katacode](https://www.katacoda.com/)
+
   ### Coding Practice :desktop_computer:
 
   - [coderbyte](https://coderbyte.com/)

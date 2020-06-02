@@ -1,4 +1,4 @@
-A bunch of great resources to enhance your learning. The ones which are in **<u>bold</u>** are [Horizon's](https://horizontech.dev) favourites. The best part most of them are free or at least have fremium model. Also, easiest way to learn them is to get started. So feel free to sign-up.
+A bunch of great resources to enhance your learning. The ones which are in **<u>bold</u>** are [Horizon's](https://horizontech.dev) favourites. The best part most of them are free or at least have fremium model. Also, easiest way to learn them is to get started. So feel free to sign-up. If you think products which are awesome and its missing feel free to send us a PR. 
 
 # Resources :moneybag:
 

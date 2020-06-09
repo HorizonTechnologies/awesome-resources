@@ -86,6 +86,7 @@ A bunch of great resources to enhance your learning. The ones which are in **<u>
 ## Note Taking :notebook_with_decorative_cover:
 
 - **[Typora](https://typora.io/)**
+- [CoderNotes.io](https://codernotes.io)
 - [Joplin](https://joplinapp.org/)
 - [OneNote](https://www.onenote.com/)
 - [Notion](https://www.notion.so/)
